@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World :) 👋
 
-<!--
-**hammadsultan07/hammadsultan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am the person that dares to dream and strives effortlessly to turn dreams into reality
+
+- 🔭 I’m currently working on Java and Spring
+- 🌱 I’m currently learning React js
+- 👯 I’m looking to collaborate on Something that keeps me going
+- 🤔 I’m looking for help with a great job to showcase my skills
+- 💬 Ask me about the latest thing I have learned 
+- 📫 How to reach me: hammadsultan07@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: by the time you read this i might have learned something new :)
