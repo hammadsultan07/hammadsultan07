@@ -2,7 +2,7 @@
 
 <img src="https://s1.ax1x.com/2020/07/26/apu6AI.gif">
 
-I am the person that dares to dream and strives effortlessly to turn dreams into reality
+### I am the kind of person who learns believes in learning everything in depth rather than breadth  
 
 - 🔭 I’m currently working on Java and Spring
 - 🌱 I’m currently learning React js
