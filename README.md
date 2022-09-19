@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub" alt="" /></a> </p>
 
 
-### I am the kind of person who learns believes in learning everything in depth rather than breadth  
+### I am the kind of person who believes in learning everything in depth rather than breadth  
 
 - 🔭 I’m currently working on Java and Spring
 - 🌱 I’m currently learning React js
